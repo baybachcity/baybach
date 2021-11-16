@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/baybach/static/css/main.8d6f82ff.chunk.css",
-    "main.js": "/baybach/static/js/main.27131222.chunk.js",
-    "main.js.map": "/baybach/static/js/main.27131222.chunk.js.map",
+    "main.css": "/baybach/static/css/main.d01ab110.chunk.css",
+    "main.js": "/baybach/static/js/main.44bf0036.chunk.js",
+    "main.js.map": "/baybach/static/js/main.44bf0036.chunk.js.map",
     "runtime-main.js": "/baybach/static/js/runtime-main.0fbf8b39.js",
     "runtime-main.js.map": "/baybach/static/js/runtime-main.0fbf8b39.js.map",
     "static/js/2.84339bf9.chunk.js": "/baybach/static/js/2.84339bf9.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.77052207.chunk.js": "/baybach/static/js/3.77052207.chunk.js",
     "static/js/3.77052207.chunk.js.map": "/baybach/static/js/3.77052207.chunk.js.map",
     "index.html": "/baybach/index.html",
-    "static/css/main.8d6f82ff.chunk.css.map": "/baybach/static/css/main.8d6f82ff.chunk.css.map",
+    "static/css/main.d01ab110.chunk.css.map": "/baybach/static/css/main.d01ab110.chunk.css.map",
     "static/js/2.84339bf9.chunk.js.LICENSE.txt": "/baybach/static/js/2.84339bf9.chunk.js.LICENSE.txt",
     "static/media/image.796425a7.png": "/baybach/static/media/image.796425a7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0fbf8b39.js",
     "static/js/2.84339bf9.chunk.js",
-    "static/css/main.8d6f82ff.chunk.css",
-    "static/js/main.27131222.chunk.js"
+    "static/css/main.d01ab110.chunk.css",
+    "static/js/main.44bf0036.chunk.js"
   ]
 }
